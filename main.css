@@ -7,6 +7,6 @@
     margin-bottom: 3rem;
 }
 
-.is-rounded {
-    border-radius: 5px;
+.auto-margin {
+    margin: auto;
 }
