@@ -1,0 +1,12 @@
+
+.footer-line.hero-footer {
+    height: 1px;
+    background-color: lightgrey;
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 3rem;
+}
+
+.is-rounded {
+    border-radius: 5px;
+}
